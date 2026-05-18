@@ -1,5 +1,1514 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The date is March 13, 1967. This is an interview with Mrs. Marjorie Norwood, better known as “Dot”, Mrs. Ellen Norman Gerard, and Mrs. Myrtle Cuthbertson. These three were girlhood friends and shared many interesting experiences. We're going to be talking about whatever comes to our minds. Myrtle, why don't you start this off by telling some of the things you remember?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "606af98e-ddcd-49d6-baa2-2d817c802f9b"
+    },
+    {
+      "start_time": 34,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, first, the story that Dot told about the Indians was a little incorrect. It was my great-grandmother, and not my grandmother. She was churning one day, and in walked three Indians without knocking, came in the room and sat down. And she was frightened, but she just kept on with her churning. And when she finished, she poured them each a glass of buttermilk and handed it to them. They drank the buttermilk, and said “umh umh,” got up and walked out, and that was the end of it. They didn't bother her at all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Collective"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "In Group v Out Group"
+        }
+      ],
+      "uuid": "944160a3-8477-4286-b718-5e23ae66b14f"
+    },
+    {
+      "start_time": 69,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Was that here, in Travis County?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "02ac42e1-f5ff-4c9d-b9a6-c64dc936f7a2"
+    },
+    {
+      "start_time": 71,
+      "end_time": 105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, that was in LaGrange before they came to Austin. That was my great-grandmother, Lewis, who had 13 children, one of the children was my Aunt Emily, who was deaf and dumb. And the tale goes that a man came riding by on horseback, was trying to sign up children who were deaf and dumb to come to the school to they wanted to form a school, I believe, here in Austin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Collective"
+        }
+      ],
+      "uuid": "40a0826d-96a5-49c4-b60d-f0083332905c"
+    },
+    {
+      "start_time": 105,
+      "end_time": 145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And her father just signed up that she did come and attend the school. She did come [inaudible] came to Austin. She… because Aunt Emily was afraid to come by herself, so she brought her up here to school. My… the school, I believe, took children from the ages 7 to 30,  and my Aunt Emily cried and wanted to go back home because she was afraid of those bearded men. So I suppose most of them must have been much older… than she was. She was 12 at that time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Collective"
+        }
+      ],
+      "uuid": "5183d964-7a62-455d-a42e-f2fbef3026d2"
+    },
+    {
+      "start_time": 146,
+      "end_time": 186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My grandmother stayed here in Austin with her and met my grandfather, who had lost his wife, and they were married. She was considerably younger than my grandfather, who had three sons by his first wife. I understand what… this first wife died of pneumonia that she contracted because they had been to a governor's ball and had been dancing, and she had gotten too warm and had gone out in the breeze and caught a bad cold, had pneumonia, and later died from that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Collective"
+        }
+      ],
+      "uuid": "67337e33-f718-43fb-8a86-a31f36c3ab1f"
+    },
+    {
+      "start_time": 186,
+      "end_time": 188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "About when was that, Myrtle?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b87091a4-0964-43f9-87cd-f8a3b396ae9e"
+    },
+    {
+      "start_time": 188,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somewhere… in the early 1850s. I'm not sure just exactly when. But, I think my grandmother was married about 1856, something like that. So, it was in the early 1850s. Then they had…. My grandmother had five sons, making 8 boys, 8 Seiders boys in all–there were no girls."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Collective"
+        }
+      ],
+      "uuid": "c81c42ed-d1c5-487c-9e27-07dfe95aed78"
+    },
+    {
+      "start_time": 216,
+      "end_time": 260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My grandfather Seiders had come to… Austin from Maine because of his health…he had TB(Tuberculosis). He had first come to New Orleans, and when he reached New Orleans, they told him, the doctors there, told him he'd better not leave because his health was so poor that he would not be able to stand the hardships of…going further… west. So he did stay there, and the tale goes that he contracted Yellow Fever and one disease counteracted the other, and he lived to die of old age at the age of 80 some odd years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Collective"
+        }
+      ],
+      "uuid": "c829dec7-817c-4082-979b-8449710b947c"
+    },
+    {
+      "start_time": 261,
+      "end_time": 306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When he left New Orleans, he… left with a Gideon White, who I understand was a large landowner and…and slave owner in Alabama. But they came on to Texas, and Gideon White bought a large tract of land, about 1200 acres, in the area where I now live. Later, my grandfather married Gideon White's daughter, and they had the three sons. They moved onto this acreage in 1845, and it was called a farm at that time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        },
+        {
+          "category": "Memory",
+          "tag": "Collective"
+        }
+      ],
+      "uuid": "e8295858-03e5-40a9-aeb8-ab1db58b42fb"
+    },
+    {
+      "start_time": 306,
+      "end_time": 356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My grandfather built his home there and later built a bathhouse over what is now called Seiders Springs. It was a two-story rock house…. the bottom area...had bathhouses where he charged for baths, 25 cents a bath. And the upstairs, he sold cigars and crackers and cheese, and cigars, the cigars were 2 for a quarter. And also sold beer. I suppose people would stop there and get a bath and then get something to eat before they came on into the city of Austin for whatever business they had. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Memory",
+          "tag": "Collective"
+        }
+      ],
+      "uuid": "99e02c11-0722-45d9-8278-3e8f6e5d8e11"
+    },
+    {
+      "start_time": 358,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The bathhouse was still there when I was a small child. You could see the tubs, they were built out of cement, and several of the tubs were still there, and the upstairs… There were two entrances to this building. One from Alamo Boulevard, you entered the upstairs, and then you went on down a little further, and there was another road leading into this bathhouse, and you entered on the first floor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "928c1086-ae68-4b72-8670-2dd1ae1ad9d3"
+    },
+    {
+      "start_time": 390,
+      "end_time": 397,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Myrtle, you mentioned earlier a story about the boys working in the fields and keeping guard. Tell that story."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "02165f5b-ad39-4e46-9cec-cad9a50e3127"
+    },
+    {
+      "start_time": 398,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the older boys, this, of course, was their farm where they lived, and the older boys did the plowing. And when they were plowing in the field, there were some unfriendly Indians in the area at that time. And while some of the boys were playing, others stood on look at the corners with guns to fight off the Indians should any come."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Collective"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "In Group v Out Group"
+        }
+      ],
+      "uuid": "150fd30f-3d50-4a76-bdd6-07a661372ae6"
+    },
+    {
+      "start_time": 420,
+      "end_time": 446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In fact, Gideon White, my grandfather's first wife's father, was scalped by Indians on Shoal Creek. The Indians were chasing him on horseback, and (stutters)he was on horseback and ran under a tree where grapevines were hanging down, and he was tangled up in one of the grapevines and knocked off his horse, and the Indians caught up with him and scalped him, and he died."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Collective"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "In Group v Out Group"
+        }
+      ],
+      "uuid": "04b3cf50-3ba2-4d4d-b14e-b5ba81382618"
+    },
+    {
+      "start_time": 446,
+      "end_time": 460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have a receipt showing that my grandfather paid $50 in 1839 for a license to sell merchandise in a house. This was when Texas was a Republic, and Austin was called Waterloo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Collective"
+        }
+      ],
+      "uuid": "d3e676c8-065e-46b0-bce6-e6d583e0f529"
+    },
+    {
+      "start_time": 460,
+      "end_time": 464,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is that so? You gave this receipt to the library, didn't you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "1d48c1fc-4ca5-47d5-aa7b-46d76eb96923"
+    },
+    {
+      "start_time": 464,
+      "end_time": 471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, and I also gave the little booklet showing charges he made at the bath house, 25 cents per bath."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "14d9a5bc-1366-4101-9894-2948df13700f"
+    },
+    {
+      "start_time": 474,
+      "end_time": 477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where is Seiders Springs, Myrtle?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "67bfce2b-c4b5-4d0e-834b-929a0f5b7c13"
+    },
+    {
+      "start_time": 477,
+      "end_time": 517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is between 34th and 38th Street on Shoal Creek, and there is now a hike and bike trail running right by it. It is a good-sized spring. You could not miss it. There will be a historical marker there. The ground Seiders Springs is on was sold by my grandfather in 1890 to a man from New York and Mr. Heppenheimer, he beautified the place, built a dam across Shoal Creek, making a lake, and had white swans on it. A flood in 1900 washed out this dam, and Mr. Heppenheimer became discouraged and went back to New York, but retained ownership until about 1945."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Environment",
+          "tag": "Natural Beauty"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "183a332d-a191-45cb-b4b3-f7aa56c1c8f4"
+    },
+    {
+      "start_time": 517,
+      "end_time": 522,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What use is being made of this area today? Is it residential?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "6b4accbf-fb14-407f-81c6-55a60557e951"
+    },
+    {
+      "start_time": 523,
+      "end_time": 534,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, not at the present time, it is now being developed as a new medical center, and also the Seton Infirmary will move to this area in the next few years. [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "a5a9342f-6f4c-456e-885d-ffa085004fbc"
+    },
+    {
+      "start_time": 591,
+      "end_time": 602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mattie Lee, do you remember the lakes, Mattie Lee? Do you remember the lakes in, at that time, it was called the lunatic asylum, I believe. But anyway, the state hospital ground?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "In Group v Out Group"
+        }
+      ],
+      "uuid": "01397e6f-32c2-492d-9809-0820e985b60b"
+    },
+    {
+      "start_time": 602,
+      "end_time": 605,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I remember one that was on the south end of it. [cuts out]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "5252c867-df0f-4d9e-96bc-b93b6b3575bd"
+    },
+    {
+      "start_time": 605,
+      "end_time": 633,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There was a big lake in the southeast corner, and then there was a drive all the way around that lake, and then north and west of that where... was a series of little lakes and had rustic bridges all through there. They're built out of cedar, all rustic in there. My father had those lakes built, and did all of that, had all of that bridge work that was in there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Natural Beauty"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "4f1634f6-0792-44b4-9c89-a8d5997d02cc"
+    },
+    {
+      "start_time": 633,
+      "end_time": 635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Was he a landscape man?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "39e381bd-b1ed-47d1-9fdb-c974e24149a9"
+    },
+    {
+      "start_time": 634,
+      "end_time": 652,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh huh(confirming). And we had..I once had a picture, I don't have now, taken that had large lilies growing in that lake, great leaves. And there's a picture of me. They'd taken a swing board and laid across this leaf, and I was standing there and had taken a picture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Environment",
+          "tag": "Natural Beauty"
+        }
+      ],
+      "uuid": "2c835cd5-d764-468f-b527-edc8a5d78607"
+    },
+    {
+      "start_time": 652,
+      "end_time": 653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, a lily pad?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b822111b-ce8c-4e90-a87a-ae986739d1b1"
+    },
+    {
+      "start_time": 653,
+      "end_time": 653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A lily pad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "cd293d35-e41f-4908-884c-c4b4978ddf3f"
+    },
+    {
+      "start_time": 653,
+      "end_time": 656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My goodness, what a lily pad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "ef9863c3-7161-4256-86fa-d367590c11ee"
+    },
+    {
+      "start_time": 656,
+      "end_time": 677,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And at that time of the..the asylum grounds, people, on Sunday afternoon from town would drive out in their carriages. And the wealth… the streets through there were well kept up and people would ride around through there..and we used to go Kodaking. That was a place to go up in the asylum grounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Environment",
+          "tag": "Natural Beauty"
+        }
+      ],
+      "uuid": "bd5a91e7-e349-42f7-8a84-2a4ab55a368f"
+    },
+    {
+      "start_time": 677,
+      "end_time": 678,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, there you go!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "9a98ed0c-bbe1-43f6-a7ef-45763960563d"
+    },
+    {
+      "start_time": 677,
+      "end_time": 693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All around the lake. It was a beauty spot of Austin. In fact, when the insane asylum was first built there, it was quite an addition to Austin, and it was something for people to see, and visitors were always going out to visit out there, and only now we–"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Natural Beauty"
+        },
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        }
+      ],
+      "uuid": "6537b959-3850-4cdb-bd0a-dc99ddca8a92"
+    },
+    {
+      "start_time": 693,
+      "end_time": 711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That administration building is one of our older buildings. I've forgotten when it was built, but it's definitely one of the older buildings of Austin. Weren't there lakes at another part of this part of town, Ellen? Didn't you mention some that were?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "c79d227c-4439-4d04-a586-c7b75a25a11d"
+    },
+    {
+      "start_time": 710,
+      "end_time": 732,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, where the Baker School is now. At one time, they had a lake and a pavilion...and they had balloon ascensions. I remember when they had the balloon ascension, we were all so excited about it and horse races [agreement] and bands would come, and…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        },
+        {
+          "category": "Environment",
+          "tag": "Natural Beauty"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "68f72a04-8c68-43a6-9e37-7fa0a7e1308a"
+    },
+    {
+      "start_time": 732,
+      "end_time": 735,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This pavilion was for the band. Is that right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "7bbfaed9-8075-4eb9-aa5f-557fe9e3846e"
+    },
+    {
+      "start_time": 735,
+      "end_time": 746,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, it was always. Took a whole…was a whole block there. Was even, I think, extended on to Guadalupe, didn't it? Don’t you remember?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "be1dc15d-154d-4077-9f9b-1673a1008651"
+    },
+    {
+      "start_time": 745,
+      "end_time": 748,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes mmhmm I remember it did[everyone agrees]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "2806a92c-d1f7-4bc9-9720-c3deb3e8261a"
+    },
+    {
+      "start_time": 747,
+      "end_time": 753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guadalupe to Avenue B, 39 to 40th I think."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "1b71ed26-ad06-414b-a6d7-0eaf3037caa4"
+    },
+    {
+      "start_time": 753,
+      "end_time": 762,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was a large thing, or maybe very popular people always… they'd have different things, you know when they go there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "59c739b6-84bc-4235-98a6-21fb80f66546"
+    },
+    {
+      "start_time": 762,
+      "end_time": 774,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now that was when Baker School was over on Speedway. Do you have any idea when that ceased to be on Speedway and was built over here?...(pause) It was early in the 1900s I imagine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "79691bd1-a2e1-4a70-b8f2-592701190105"
+    },
+    {
+      "start_time": 774,
+      "end_time": 776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh no it was later. It was later."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "90fe6e0c-5c30-4ea8-b3ae-9dbdce6ed5ad"
+    },
+    {
+      "start_time": 777,
+      "end_time": 781,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'll say in 1910 and 1915"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a354c2bb-b2bb-432f-bc30-810453f0de4b"
+    },
+    {
+      "start_time": 779,
+      "end_time": 783,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, let's see. When did we graduate from Baker school?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "a7264100-2a1a-4364-8774-77aed995daf4"
+    },
+    {
+      "start_time": 784,
+      "end_time": 795,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't know. I graduated from high school in 1913 so it could have been four years before. But it remained there for some time after, I think so."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "7ee92e27-880e-41ee-b79e-feb9d1b7c84d"
+    },
+    {
+      "start_time": 795,
+      "end_time": 799,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It remained on Speedway? Oh, well, I have no idea that it was moved earlier!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "84cf321a-e6b8-49e8-b56c-262a9636825c"
+    },
+    {
+      "start_time": 800,
+      "end_time": 803,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stinny Pryor put on many shows black…he was a blackface comedian."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "In Group v Out Group"
+        }
+      ],
+      "uuid": "6c42847c-d9e4-48d6-8845-c6f70baff66f"
+    },
+    {
+      "start_time": 803,
+      "end_time": 805,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was Cactus’s father?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b022fbaa-e428-489d-afb5-54af62c36566"
+    },
+    {
+      "start_time": 805,
+      "end_time": 810,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cactus’s father put on many shows at that pavilion in Hyde Park."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "48f00306-c457-41dc-8890-d889cadde57e"
+    },
+    {
+      "start_time": 809,
+      "end_time": 821,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is that right? (pause) I noticed that on that picture we were looking at one of the people named is an aunt to Cactus Pryor. One of those pictures. [All agreeing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "8ee86ffc-de25-4a47-8288-47fefa829afd"
+    },
+    {
+      "start_time": 822,
+      "end_time": 842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Baker school was a beautiful spot at the ground, I believe was owned by the Shipes. Now, whether they gave it to the public schools, or whether they just let them put the building there, I don't know, but it was a great big barney building, two story with an immense hall through the middle–"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "32628cb1-598f-44df-a21b-836887304c39"
+    },
+    {
+      "start_time": 842,
+      "end_time": 846,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you talking about Baker over on Speedway? (talking over each other agreeing)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "56202d33-0a6c-44bb-918f-2c6beec4e1a5"
+    },
+    {
+      "start_time": 845,
+      "end_time": 865,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The old Baker School. And the great big steps went up in the middle. And on each side, downstairs was a great room that was at first grade, where Ms. Larry taught. And on the other side, another big room that had the second and third grades and Ms. McCrillis taught. And then upstairs was the fourth and the fifth and the sixth and the seventh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "58186550-582e-42d9-a363-647017e7c757"
+    },
+    {
+      "start_time": 864,
+      "end_time": 866,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you remember the teachers?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "ee04aa3f-4d8e-4b5b-a265-08a9ddaea52a"
+    },
+    {
+      "start_time": 866,
+      "end_time": 896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh yes. Mrs.McCrillis taught… Ms.Larry taught the first, and she was the principal of school. Mrs.McCrillis taught the second and third, and at the time, I think I was there. And Ms. Thornton and Ms.Holiday jointly, maybe taught the fourth and fifth. And Ms. Ada Blackburn, who's taught in schools in Austin for many years, taught the sixth and the seventh grade. And everybody knew Ms. Blackburn, you knew the multiplication table (laughing). learning math when you took it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "ef5f1250-4232-4dc6-8ff8-63962e7903c4"
+    },
+    {
+      "start_time": 896,
+      "end_time": 899,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not the new math, the old math? [laughs, someone else cuts in]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "80579aff-db0c-4212-b065-04dfc9939f8f"
+    },
+    {
+      "start_time": 898,
+      "end_time": 915,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You had to say the multiplication table without hesitating. If you hesitated, you could give the correct answer, but oh, you hesitated. You couldn't have just [talking over each other]...She just did it fast. Her little eyes darting just as fast as she could say it...It was individual."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "ad17e39d-2632-486a-b0ab-1bb4ca03194f"
+    },
+    {
+      "start_time": 915,
+      "end_time": 923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, yeah, (laughs) And you had to do it on your own time, too. If she didn't do you had to go before school or after school lunch hour"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "601043df-51ad-427c-8a54-82ed2c729204"
+    },
+    {
+      "start_time": 923,
+      "end_time": 925,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But you knew that when you got through and…[cut off]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "27444f20-53e2-41de-aa35-d0c0c36a3b8b"
+    },
+    {
+      "start_time": 925,
+      "end_time": 980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had… the grounds were beautiful. They're great big, I believe elm trees, many oak trees, but there's elm trees, and then there was a pasture back there where we could go out in there, and it had them as big trees. But under these trees, we had buckets of water hanging down on chains, and on the side of each bucket, a dipper hooked onto that. And every child would go there and take this dipper and dip in the bucket of water, whether you had a cold or not, and drink your water and hang the dipper back up. The next one do the same.[laughs] We were very healthy,[laughs] and I remember Mrs.Larry when I was in the first grade, she hated for anyone to be tardy, and she'd stand up that she rang the bell at nine o'clock and she could see somebody coming, and she wouldn't quit ringing the bell. (laughs) \"Come on here! Come on here!\" ringing with one hand and motioned her up, of course, when she quit ringing the bell, why you'd be tardy, you see? So she wouldn't quit ringing[all laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Natural Beauty"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "a331f3d5-87a4-45ec-8bec-b4ee55ee9628"
+    },
+    {
+      "start_time": 982,
+      "end_time": 1003,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Remember those rock houses we used to build out in the pasture where the mesquite trees…[all agreeing] rock houses, and we kept them so clean. We swept that grass until it was just shining."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Natural Beauty"
+        }
+      ],
+      "uuid": "521c4058-5c25-40ac-bc1d-9daf2fe6641f"
+    },
+    {
+      "start_time": 994,
+      "end_time": 995,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What did you sweep them with?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "3341d88d-999c-4697-8d13-2098b8c92d32"
+    },
+    {
+      "start_time": 995,
+      "end_time": 996,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, broom[all talk over each other] I had a real broom."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "55bd279e-9e42-4f5a-95fd-7bbe2a8e2a5c"
+    },
+    {
+      "start_time": 996,
+      "end_time": 998,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A real broom or a limb?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "19d63629-c7f0-4bf9-a0fd-542e9f7728bb"
+    },
+    {
+      "start_time": 998,
+      "end_time": 1002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was a real broom. It was not a limb. It was a real broom."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "1209e230-6ee0-4340-9593-61c50bb133e7"
+    },
+    {
+      "start_time": 1002,
+      "end_time": 1005,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, my childhood brooms were from limbs off trees."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "8153b664-87b9-47ce-b62e-64e1c21d0042"
+    },
+    {
+      "start_time": 1005,
+      "end_time": 1009,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, but mesquites don't make very good brooms."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "7810bbd7-11e3-4d4c-a523-4c71859d18a4"
+    },
+    {
+      "start_time": 1008,
+      "end_time": 1011,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, no, that would have thorns on the handle. [all laugh]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "2739cb70-bc7d-40c4-8b92-e5a5ea3fd178"
+    }
+  ],
   "set": "Default",
   "event_id": "4bbe0194-6153-4128-ac12-9639c91c998f",
   "source_id": "71d5ff46-2ad1-487b-a7cf-b379d4b58929"
