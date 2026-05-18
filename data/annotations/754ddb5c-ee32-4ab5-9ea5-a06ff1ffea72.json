@@ -1,5 +1,3485 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 6,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Griselda. A member of the Hispanic Women’s Network of Texas. And today is Wednesday, December 22, 2004. I'm interviewing Sylvia Herrera at her office, PODER, at 2217 Garden Street, Austin, Texas, 78702. Ms. Herrera is one of the old neighborhood reunion group, and she is an honoree of Community Women of the Millennium. Do you give me your verbal consent to tape this interview for the purpose of documenting the history of the Mexican Americans in the Parque Zaragoza area?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "938feb0b-3fc2-43cb-a154-6d09d83085d9"
+    },
+    {
+      "start_time": 49,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I give consent to be interviewed for the purposes of the Parque Zaragoza documentation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "8162be6e-7623-456d-9ae2-ab442872e45d"
+    },
+    {
+      "start_time": 57,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Sylvia, are you aware that the tape will become the property of the Austin Public Library, Austin History Center, and will be available to people to use when they come to the Austin History Center and will be available to people to use when they come to the Austin History Center?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "36ddb751-1fe2-4343-af38-39c9ca5f2252"
+    },
+    {
+      "start_time": 71,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I'm aware that it's working for public use."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "4b7d5e00-d0f3-4315-b256-aecd2541a70f"
+    },
+    {
+      "start_time": 82,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We will begin with your early childhood and family life, media, where and when were you born?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "2977b4c2-6968-470d-810b-eb7efe5a8667"
+    },
+    {
+      "start_time": 90,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was born here in Austin, and I was born March 4, 1953, and my parents resided on Haskell at my grandmother's house when I was born. And then about a year later, my father built a house and a taller [workshop] on Oak Springs. And that's where I grew up, on Oak Springs, the Govalle area."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "44a8de5d-2343-433e-94ea-e7a3b2a5dfdc"
+    },
+    {
+      "start_time": 127,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you have any siblings?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "e9765da6-0658-45fa-ba96-ad42bb598b86"
+    },
+    {
+      "start_time": 128,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I do. I have two brothers and two sisters. And I'm the oldest. And then I have a sister, a brother, another brother, and my youngest sister is 22 years younger than I am."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "06c39267-58a5-4874-a8a1-7b0d36c19330"
+    },
+    {
+      "start_time": 145,
+      "end_time": 148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was your birth order within the family again?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "6428ed53-4938-4000-889d-f594ce616da7"
+    },
+    {
+      "start_time": 148,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was the oldest one."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "42a35606-3777-4f33-b77a-c7a1c79f317c"
+    },
+    {
+      "start_time": 149,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You were the oldest one. Who were your grandparents? And where were they born?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "df0f412b-55e8-48a0-a99d-83a60ba79046"
+    },
+    {
+      "start_time": 154,
+      "end_time": 198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My grandparents were born in Mexico, but their families had come to the Central Texas area for several generations. So, my great grandparents were from the Taylor, Georgetown, Granger area, and so they had been here for several generations. And my father's family were migrant workers, and they had settled in Pflugerville, and also his family, and then they moved to Austin, to the Holly Street area on Haskell."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "465adcfc-7a94-4610-9f62-5ee658edfb77"
+    },
+    {
+      "start_time": 201,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your parents, where were they born?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "51989783-e028-4635-810f-aa2fe21cf1d8"
+    },
+    {
+      "start_time": 203,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They were born in…My mother was born in Granger, which is in Central Texas, north of Austin. And my father was born in Nacogdoches."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "30ffef60-f8f1-4f8a-be1d-2b10876461d3"
+    },
+    {
+      "start_time": 219,
+      "end_time": 221,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When did you first come to Austin?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "3119b1a4-177a-4e3a-8deb-332d8cefc488"
+    },
+    {
+      "start_time": 222,
+      "end_time": 244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm a native East Austinite. I grew up in the Govalle area. Oak Springs is on the border of Tilly and Woodwardville, right off of Airport Boulevard. And that was the street that I grew up on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "b8c88129-8db5-4ae4-81e6-46f102129e2b"
+    },
+    {
+      "start_time": 245,
+      "end_time": 246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Describe your home."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a89fbf3d-9c7a-4ace-8d20-fe1829b5b0f9"
+    },
+    {
+      "start_time": 249,
+      "end_time": 315,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The way my father and mother built it—it's on a hill. And it's my dad’s shop. He learned how to be an ironworker. And so, he started his business in 1952. And so we lived upstairs, and the shop was downstairs. And so my mother would help him in the business. They built the house in 1952. And it was also on Oak Springs, which also has the natural springs that feed off of it. And so that area across the street was pretty much like a marsh. And there were a lot of woods in that area at the time that I was growing up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natural Beauty"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "81730f95-fc45-45f4-99ce-1f2f4fe93da3"
+    },
+    {
+      "start_time": 315,
+      "end_time": 320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What outstanding childhood events do you remember?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "bd6cbe30-5d1c-4946-9a5f-8902f6b0a894"
+    },
+    {
+      "start_time": 321,
+      "end_time": 366,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I remember growing up in that area that wasn't too populated, because, like I said, across the street, there weren't any homes. It was like a marsh, and there were just houses on one side of the street. And so, what I remember is those natural things, that natural setting, because down the street on that same block was a place that people would go. It was a well that was there, and you would get water from the spring."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natural Beauty"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "dbac8eb3-55df-4737-b8f3-8ce7ac93ebdb"
+    },
+    {
+      "start_time": 366,
+      "end_time": 404,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, those are some of the experiences that I remember having. The stories that I would hear from people talking about La Llorona, which was Boggy Creek, and any area that had water. You know stories of La Llorona and Boggy Creek, which was further down from where we lived. But those were some of the stories."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Collective"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "fcc96f92-c85b-4f76-a5dc-eea1832c0ad7"
+    },
+    {
+      "start_time": 404,
+      "end_time": 439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And also, the school that I was going to, Govalle Elementary, was not that close, but it was within walking distance that sometimes we would walk. The house was built on the side of a hill, so we would have to go down the driveway to get down to the street level. So we had an unusual view across the street."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "5e519b2f-a1b3-4ca8-b584-47dad3deb54b"
+    },
+    {
+      "start_time": 441,
+      "end_time": 443,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How far was the school?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "2a308b0c-2e28-4c0f-a601-e279327475af"
+    },
+    {
+      "start_time": 445,
+      "end_time": 496,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Probably about, maybe half a mile from where I lived. And one of the earlier things that I remember also was walking over to a shopping center… It wasn't really developed on the corner of Airport and Oak Springs. And now it's real developed, but at that time, it wasn't well developed. But there would be a bookmobile, and they would bring books to the area, because there wasn't a public library anywhere around. And we would go and we would be able to check off books. But that was a little further on after I started school."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "2431c271-93ba-440b-a680-e93a37a1a778"
+    },
+    {
+      "start_time": 496,
+      "end_time": 498,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did the school have any Mexican American teachers?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "5690fad8-011f-4224-a814-343bce38a8aa"
+    },
+    {
+      "start_time": 501,
+      "end_time": 552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not that I remember. I remember them being mostly Anglo teachers. And I guess my first experience in the public schools was very negative, and I think that's what shaped my viewpoint and my perspective now. Because when I first started school, I only spoke Spanish. And even though my parents had been in the area and knew English. They just spoke Spanish to us. And so when I started school, that's all I knew. And in first grade, the teacher taped—scotch-taped—my mouth because I spoke Spanish."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        }
+      ],
+      "uuid": "cf24e201-53f9-43b6-a261-b10bd0e29c28"
+    },
+    {
+      "start_time": 552,
+      "end_time": 567,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so that was my first encounter with the public school system. And some of the other kids would get hit on the hand with rulers, or they would be put in the corner for speaking Spanish."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        }
+      ],
+      "uuid": "a608d143-cf97-467f-9323-c927a9dc2b1c"
+    },
+    {
+      "start_time": 567,
+      "end_time": 611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so there were just a lot of negative experiences that we encountered as we were growing up in the area. And then different remarks by the teachers and throughout elementary school that you know had to do with being Mexican. It was a mixed school. It was mostly Mexicano. But there were also African American students there. And some White—very few, very few White."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        }
+      ],
+      "uuid": "ca87b6ba-49fb-4d15-87e4-354ad828d291"
+    },
+    {
+      "start_time": 613,
+      "end_time": 616,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was your favorite subject in school?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "8b02c2b7-27f3-43a4-a4bc-9db239bee65c"
+    },
+    {
+      "start_time": 623,
+      "end_time": 638,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "….Social Studies was. I know that the one area that I had a lot of problem, and still people say, “Oh, the handwriting is really bad.” (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "3e52eea9-59db-4880-9bdf-8fb3bd259380"
+    },
+    {
+      "start_time": 640,
+      "end_time": 667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But everything else, I liked. Social Studies, I enjoyed. And reading—I enjoyed reading. And I did fairly well in school, and would be able to help other students sometimes that needed help."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "f505cf0d-75d0-4d35-9cb3-0e20ab2e8e89"
+    },
+    {
+      "start_time": 669,
+      "end_time": 674,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Describe Parque Zaragoza and what it looked like when you were in elementary school."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "3a1b5fe0-783e-4ffe-a243-63a4930e6715"
+    },
+    {
+      "start_time": 676,
+      "end_time": 734,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My memories of la Parque [Zaragoza] were of the baseball field and that we would go see the baseball games. So there were a lot of weekly [trips] of going to the Parque, for the baseball games. And I know, for a couple of years, my dad, because he had his business, and he was starting out the business, that he sponsored a team to play. So their uniforms, or whatever the outfits were, had his name and the sponsorship. But that’s the memory I have. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "a97426b1-c2ae-4064-badf-974d2e590f71"
+    },
+    {
+      "start_time": 735,
+      "end_time": 804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Later on, I was on the Parque Zaragoza board, and this was like in the 80s. And one of the things that was really upsetting was that here, it was in the 80s, and yet, the Parque Zaragoza Rec Center didn't even have windows. It was basically a shelter. It was an enclosed shelter, but the windows just had guards. It had window guards, but it didn't have any window panes. And it would be cold, and it would be hot. And, that's where you had the Rec. That was the Rec Center until the new one was built. But, on one hand, there was still a lot of neglect [from] the City [of Austin] to provide the community with a decent public facility for the community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "b629c3cc-ec2c-4478-ae26-766363626dcf"
+    },
+    {
+      "start_time": 804,
+      "end_time": 809,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So yeah, describe your middle school days and what school you went to? [cross talk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "730fe941-8857-4647-bfaa-1c64488b9c54"
+    },
+    {
+      "start_time": 810,
+      "end_time": 836,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I went from Govalle Elementary to Allen Junior High. Now it's an elementary school, but at the time, that was Allen Junior High, and that's located on Gonzales and Shady Lane and Springdale, in that area. And I went there for seventh and eighth grade."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "ebdc8c1c-0020-4389-a24f-cbe0e91d3394"
+    },
+    {
+      "start_time": 840,
+      "end_time": 842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what about high school? What high school?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "413dbfb8-ede4-43a0-aaf7-2517af6e3d2a"
+    },
+    {
+      "start_time": 843,
+      "end_time": 887,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The students that went to Allen [Junior High] went to [Albert Sidney Johnston High School]. So I started at Johnston in ninth grade. And so, I was in [the marching band], since Govalle Elementary School. I played the flute and was in the marching band at Johnston. And I had different activities that I participated in at Allen, like the National Honor Society. And then at Johnston, I was really involved with the band."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "3a46fb1f-5b8c-4d83-8fc8-6d714ce255b1"
+    },
+    {
+      "start_time": 888,
+      "end_time": 893,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you go to any activities or fiestas at Parque Zaragoza as a teenager?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "3b169f8d-0b23-4ea8-ba55-05729884d31c"
+    },
+    {
+      "start_time": 894,
+      "end_time": 950,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We did have fiestas [and another Spanish name for a festival or party]. Yes, there would be different activities. And there would be…I know we're talking about the parque back when I was growing up, but later on, after I had my children, my children participated in the summer programs at the parque. Because I still reside in the area, not on Oak Springs, but still in the [Govalle] neighborhood. And so my children have also been part of the history of that neighborhood in terms of participating in the activities of the parque and fiestas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "3040f154-b973-44be-bd39-51cd66b3791b"
+    },
+    {
+      "start_time": 951,
+      "end_time": 953,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How many children do you have? [cross talk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b15ad5a6-fbbd-4c64-8c3d-f109372f678d"
+    },
+    {
+      "start_time": 953,
+      "end_time": 982,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have two children. Javier Hidalgo Herrera and he's 25. And my daughter, Charisma Taribe Herrera, and she's 21. And I have two grandchildren. I have Javier Jr., and he'll be seven in February. And I have Anthony Jr., and he'll be a year [old] in February."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "5e2248b7-6c42-4940-ae4f-2491c48537ad"
+    },
+    {
+      "start_time": 984,
+      "end_time": 990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, Sylvia, can you tell me what PODER stands for, and how it came to exist?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "4ceb0251-e8b3-489d-a8b0-93ef7fb3f1c8"
+    },
+    {
+      "start_time": 991,
+      "end_time": 1015,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "PODER stands for “People Organized in Defense of Earth and her Resources.” And I am one of the founding members and PODER got started in 1991. We started out through previous work that we had been doing as activists in high school."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "31f23506-7dcb-4774-8d4f-70248dd20fe0"
+    },
+    {
+      "start_time": 1016,
+      "end_time": 1061,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I had, we had…I was transferred to another school from Johnston, and at the time I got really upset, because I saw a big difference between Johnston and Reagan. And Reagan High School at the time was predominantly White, and Johnston had been Black and Mexican mostly. And so I saw a big difference between the educational system once again. And so, I had had it with the educational system, so I dropped out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        }
+      ],
+      "uuid": "c92e8f89-62c8-4021-935e-5abd6061da9e"
+    },
+    {
+      "start_time": 1064,
+      "end_time": 1092,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But then I became involved with the Afro-Chicano [group] and got involved in political work. So a lot of folks that started PODER already had some connections—some kind of relationships—from early on, through the United Farm Worker, through the [inaudible, an organization with a Spanish name], and through the different aspects of the Chicano movement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        }
+      ],
+      "uuid": "c2fe145d-3020-454b-bb1a-bc58c9b9b432"
+    },
+    {
+      "start_time": 1093,
+      "end_time": 1148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But we came together to form PODER because in [1991], the high tech companies were moving into Austin. And the high tech companies would come into Montopolis, which is a really low income community. These companies were getting tax credits or tax breaks to come in for economic development in the area. And we knew that the people in Montopolis were not going to be hired by these companies because they didn't have the education. And so, we were really concerned about that. And this was in May of ‘91 and we started talking to different people about the whole situation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        },
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "a2abea17-1f87-4cb2-a1e1-7212cf272b36"
+    },
+    {
+      "start_time": 1149,
+      "end_time": 1192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And in December of ‘91 I saw a public notice in the [Austin-American Statesman (a major daily newspaper for Austin)], in the classified [section] saying that the Mobil Oil company was going to be was asking for a permit—an air permit—where they would continue to emit benzene, xylene, all these chemicals. And benzene is a known carcinogen. It causes cancer. And the facility was on the corner of Springdale and Airport, less than a block away from where I live."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "3636a518-bc29-476e-b486-493470334425"
+    },
+    {
+      "start_time": 1193,
+      "end_time": 1224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so I brought it to the attention of Susana [Almanza (Executive Director of PODER)], and the other co-chair at the time, Antonio Diaz. And so, it was a request for public comment. And so we requested a public hearing on that permit, and that was submitted in January of ‘92. So that's how PODER got started."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "8a74f370-67e6-4ad1-b9f3-c9d3c948e46e"
+    },
+    {
+      "start_time": 1225,
+      "end_time": 1266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It turned out that Mobil [Oil] was not the only oil company there, but you had Chevron, Exxon, Shell Co., Texaco, which are star enterprises, So there were six major oil companies there, and so we started investigating them, and started looking into the application and so forth. And there had been a lot of violations. There was groundwater contamination, there was air violation, and the community had never been told. So that's how we really started collecting the information. I developed a one page survey."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "96959a01-58fe-41b0-acac-37dd4f2a7530"
+    },
+    {
+      "start_time": 1267,
+      "end_time": 1312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At that time, I was in school—I had gone back to school—and I was studying for my PhD, and I was studying health. And I was just trying to gather some of the information on the community around the [East Austin Tank Farm]. I designed a one page short Health Survey. And what it was is just a checklist of information for the community. And so we did that. We did a toxic tour of elected officials, of the school board, representatives, of parents, and the media was there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "e29f99ba-9ae0-4235-a9ba-8c49e5248a75"
+    },
+    {
+      "start_time": 1313,
+      "end_time": 1343,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During that one year, there were over 300 articles that were written on the Tank Farm in the [Austin-American Statesman (a major newspaper chain in Austin)] and other publications, either front page or front of Metro State, because of all the things that came out of the different investigations that we requested. But out of that came [this sudden representation about the Tank Farm in the media]. And in 18 months, we were successful in shutting down the Tank Farm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "9209afc4-9184-40d4-b2d4-37e87d8af4d9"
+    },
+    {
+      "start_time": 1344,
+      "end_time": 1386,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so out of that grew this movement that people in the community could make a change. And I think before that, people had tried to—or probably more on an individual basis—but people that had never participated before started participating. These are people that only spoke Spanish, people that had given up that they could do anything. And at the time, since we were so new, we didn't have any money, and we kept saying, “Yeah, but we have our voice. We have our voice.” And we were able to shut them down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "52001a00-8e42-489e-8be0-ff1fd5713482"
+    },
+    {
+      "start_time": 1386,
+      "end_time": 1410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And out of that also came a committee that we established of people that were living around the Tank Farm. We set it up where [the residents] would be running the meetings, not the Texas Air Control Board, not the City Council, and so forth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "700dbb06-ea98-48e8-b603-a632c0b794eb"
+    },
+    {
+      "start_time": 1411,
+      "end_time": 1412,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What year was that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "861feda8-3f3f-409a-90d9-c2ab41b05c63"
+    },
+    {
+      "start_time": 1412,
+      "end_time": 1478,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was in ‘92 when we established that. And by February of ‘93 is when the Tank Farm was shut down. And so the committee was responsible for getting the different entities—governmental entities—to come report to that committee and to the community. Rather than the regulatory agencies creating a task force or creating an ad hoc committee, we were the ones that were taking the lead of what was happening or not happening in our community. And that made a big difference, because we had known from experience that if you create or you participate in a task force, your voice is going to be diluted by all the different representatives from a different community, from the different governmental agencies."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        },
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        }
+      ],
+      "uuid": "3a60b00d-753e-4235-9c1b-ce4dc4bc7c6d"
+    },
+    {
+      "start_time": 1479,
+      "end_time": 1530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But we were the ones that were running the agenda. We had…we would make official requests of these agencies to put monitoring wells, to put air monitors. To do this and to report as to what the results were from this. We had different people coming in wanting to assist us, and that was really good, but we said that people have to play a certain role. And in this situation, the people from the community have to be the ones that are the spokesperson. They're the ones that have to take the lead on the issue. You can be supporters and be allies, but you can never be the people out on the front speaking on behalf of the community. And so that made a big difference."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        }
+      ],
+      "uuid": "932e5cc5-6412-4df3-bfb8-2e7c6c154eed"
+    },
+    {
+      "start_time": 1531,
+      "end_time": 1532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tell me about the [Holly Power Plant]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "e1f067eb-2e6c-4825-836a-7a2a9850c8a4"
+    },
+    {
+      "start_time": 1535,
+      "end_time": 1546,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Power Plant has been another issue that we've taken on in conjunction with other neighborhood groups in the area."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        }
+      ],
+      "uuid": "a3472a83-d7c7-425b-a283-1c76b4c243da"
+    },
+    {
+      "start_time": 1548,
+      "end_time": 1626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If I could just back up…After the Tank Farm, we were also able to do Browning Ferris Industries [BFI]. Browning Ferris Industries is like a multinational [company], and Browning Ferris is something that had a contract with the City of Austin to collect all the recyclables and apply the plastic, the newspapers, glass, aluminum cans and everything, all the trash, recyclable trash, right? But it was coming to our neighborhood too in the area. So we took that on, and we were able to get the City to buy them out and shut them down. And so, there’s been this movement. And so then the other issue that you asked me about was the Holly Power Plant And the Holly Power Plant, we started questioning because of the noise level coming out of the facility, the electric magnetic field. And again, we did that one page survey of the area. We found a lot of learning disabilities."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        }
+      ],
+      "uuid": "a9f5e809-cb44-4e41-88be-5f4968c54443"
+    },
+    {
+      "start_time": 1627,
+      "end_time": 1628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What year? [cross talk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "fab39cbf-1af9-42dc-a206-fd9a7ee654f8"
+    },
+    {
+      "start_time": 1628,
+      "end_time": 1648,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We did one in ‘94 and then we just updated it last year [2003]. Our Young Scholars went back and they surveyed the community again to see what concerns there were in the community regarding the Power Plant. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "4705797d-614d-4e4c-82d7-39ef88bfbbe4"
+    },
+    {
+      "start_time": 1649,
+      "end_time": 1682,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But the Power Plant is something that we've come to find out is also contributing…It's the largest stationary source of nitrogen oxide, which contributes to the ozone. So it's not just the traffic congestion or traffic problems that we're having here in Austin that are causing pollution, but it's also the Holly Power Plant, so now we've taken it to a different level."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "4c3d0e89-7f39-4539-b5f4-a51a64354143"
+    },
+    {
+      "start_time": 1683,
+      "end_time": 1738,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But our role in the Power Plant closure has been the health effects. There's a school that's less than a block away. Like I mentioned, the children, their learning disabilities…And we had been focusing on the physical damage that the Power Plant can have on individuals because of the noise level. It also disrupts your hearing or your sleep. It can damage your hearing. But you can't concentrate, and you will have problems trying to focus and learn. So, with the Holly Power Plant, our role has been looking at the health [issues]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "dda58ec3-7324-4cd7-96c0-a7d92e5c327b"
+    },
+    {
+      "start_time": 1739,
+      "end_time": 1774,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We were able to, after we did the health survey, to get the city to reroute some of the transmission lines, because the electric magnetic fields were really high. Actually, there was a study that was done by the city where they found those levels that were high. They found that the levels of noise exceeded the acceptable standards of the Housing Urban Development—the federal agency that regulates housing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "0c86be79-7463-4e71-a1a8-451d75ee9934"
+    },
+    {
+      "start_time": 1775,
+      "end_time": 1815,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, they've done some things, but it's not enough. It’s still…incredible noise comes out of it. And now my concern is that the children and the families that live around the Holly Power Plant are still affected by the anxiety when it goes off, and it creates such a terrible noise that you think it's going to be an explosion. And I've been part of that, because [we live right here], a block away from the power plant."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "586abfe5-4c48-4477-95a5-81e586b74c66"
+    },
+    {
+      "start_time": 1815,
+      "end_time": 1817,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where is the precise location? [cross talk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "9c3d3850-1e1e-4136-a080-7ffa6c0dc8b8"
+    },
+    {
+      "start_time": 1818,
+      "end_time": 1840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's on the corner of Mildred and Holly Street. And it's unpredictable when that steam— supposedly it's a Steam release—but it sounds like a jet coming down or taking off, and you don't know what to do."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "a9eb2cde-365c-47ee-bac3-7e5da0c6cdf2"
+    },
+    {
+      "start_time": 1841,
+      "end_time": 1857,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, there's also been major fires at that place. And about three years ago, there was a major fire on Halloween night, when all the children were out and in the neighborhood, and that was really a terrible fire."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "d515b20a-f103-4fa9-b006-98ebbcd5baee"
+    },
+    {
+      "start_time": 1869,
+      "end_time": 1976,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On the [Holly] Power Plant and these releases, it's been something that I really had. I mean, we had talked about it, and we say, “You know, it's not something, a situation to be living under.” But last year, we did—or a couple of years ago—we did a taping of children that lived in the area and [we] interviewed [them]. And as it turned out, there had been a steam release on 9/11 and the children were playing in the school yard here at [Metz Neighborhood Park], which is less than a block away. And they thought it was going to be some kind of explosion, because the noise was so incredible, and they all started crying. The teachers didn't know what to do. And this little girl is interviewed and taped, and what she said really struck me in terms of…We're not talking about the anxiety, and of the fear of dying. And she talks about that on the tape, and that really struck me as something that children, or anybody—not anyone should have to be dealing with [this trauma]. She said, “We thought we were all going to die.” And we didn't know what was happening. And so now I want to start talking more—not just about the physical [effects]—because the mental, the emotional [impact] of having to live in a situation where you don't know what's going to happen with that power plant."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "11b87aa1-5234-4dcd-acc0-06e005cabdd2"
+    },
+    {
+      "start_time": 1977,
+      "end_time": 2055,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that power plant is outdated. It was built in the ‘60s, and the lifespan of these power plants are 30 years. And certainly it exceeded that. They [the City of Austin] did shut down two of the units. And then they reopened it up, because of “supposedly” for the need of “global warming.” And we are now “needing more electricity.” But we [PODER] were also asking the question of how many of those were commercial users that had come into the area that were requiring more electricity, also versus residential growth. And also how much of the energy was being sold to other cities and to other states. Because Austin Energy is a revenue… source for the City of Austin. So it's selling energy to other places, not just Austin, and so…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "c363f2b5-b321-4292-a528-617ca962865f"
+    },
+    {
+      "start_time": 2056,
+      "end_time": 2126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The work that PODER has done is to ask those questions, [because] we don’t know [what’s going on], and [we teach others] how to ask those questions. And so we do a lot of education, a lot of training of our parents. We have several projects that deal with health [concerns], and in different ways. We even have the word “environmental justice:” we look at it holistically, looking at economic situations that are either damaging the environment or damaging individuals living in situations. [Environmental justice is] not just a certain part of nature, but all nature, including the people. And that makes us different than mainstream environmental groups that are concerned about the birds or [inaudible]. We're all inclusive of everything, every living entity. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "9dabfe84-bd35-4b3c-a868-52c22e022238"
+    },
+    {
+      "start_time": 2127,
+      "end_time": 2202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so we have some projects like the “Now We Are Being Healthy” communities that look at air quality. We're putting together some air quality policies for the school district because right now, the school district sends the children out on [high] ozone days, unless you specify that your child cannot go out because of asthma or other problems. We want the school district to adopt a flag to alert the community. Because right now, [in] Austin, pretty much the only way [to find out about ozone alerts] is if you listen to the radio. And not a lot of that kind of public information is done on the Spanish speaking [side], either on television or radio. But we want some kind of alert so that everybody can know that it's an ozone day, and they need to be aware of that. Right now, the only thing that we have are the Capital Metro buses that say “Ozone Day” and “Ride Free.” So everybody kind of looks forward to “Ozone Days.” And so we've been doing a lot of workshops on “What is Ozone” and how it can affect your health."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        },
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        }
+      ],
+      "uuid": "a471ef20-afec-43f5-91de-b8d0691b1ece"
+    },
+    {
+      "start_time": 2203,
+      "end_time": 2231,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We’re looking at water quality, we're looking at soil quality, and…. But [PODER] also takes it to the level of individual personal health and how we can improve. We take for granted breathing. There's certain breathing exercises that you can do. There's things that you can do to reduce the stress with breathing exercises."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "d0453b25-a77b-4bd6-b52d-35376b5a5cd4"
+    },
+    {
+      "start_time": 2232,
+      "end_time": 2257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And we have another project called “Keepers of the Colorado River,” where we were instrumental in keeping the park area of the Roy Guerrero. Now it's designated the “Roy Guerrero Park,” and it's the area from Pleasant Valley to the Montopolis bridge that has a hike and bike trail now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "3c2a27aa-4737-49af-96e3-5731e20e9c16"
+    },
+    {
+      "start_time": 2258,
+      "end_time": 2291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We’ve introduced working with Allison Elementary, which is the school right there on Montopolis, to come into the park. And the students come and take advantage of the hike and bike trail and do the observation. And it's called “Living and Learning with Mother Earth.” And incorporating it with the science and the other curriculum through the schools, and also to bring the community into the park."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        }
+      ],
+      "uuid": "e427ac20-3987-4a1b-b9db-88ecb4880476"
+    },
+    {
+      "start_time": 2292,
+      "end_time": 2338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We’ve come up with an event called “Festival de Las Plantas” where we're talking about healing remedies, different areas of the park that we can develop, and bring people into the park. The first year we did it was last year. We planted trees in the park. And there's some baseball fields there, but we wanted to limit the amount of development in the area. So we planted over 75 trees, and the schools and the different communities participated in that planting. (phone ringing)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natural Beauty"
+        }
+      ],
+      "uuid": "cc14debd-ccfb-4542-8fa5-e2b3e7369257"
+    },
+    {
+      "start_time": 2338,
+      "end_time": 2370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And they adopted a tree. And so now, they've come and taken care of [the park]. And they go back [to maintain care of the trees]. And also those trees were planted in memory of people that had been in those neighborhoods and are no longer with us. And so we make that connection to protecting Mother Earth. And that’s part of our name, “PODER: Protecting Mother Earth and All Her Resources.” (laughter) (phone ringing) (pause in recording) \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "c5467366-d7e2-4434-b5bb-3bf3ebe90bef"
+    },
+    {
+      "start_time": 2375,
+      "end_time": 2457,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was mentioning the projects and the “Living and Learning with Mother Earth.” And at one of the “Festivals de Las Plantas,” the second one we did was, we planted seeds. And every time we've done different activities. Like for the PODER celebration, our anniversary on the Tank Farm, we celebrate and bring in our indigenous roots. And we do blessings with the concheros, danzantes. And [we] bring in different traditions to be a part of our event. And so we hand out corn seeds that represent the different colors of red, black, white and yellow. And they represent the different directions, and they represent the different races. So we hand those out at our different events. And so that's another perspective, or another part, of what's really important for PODER."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        }
+      ],
+      "uuid": "a81fe73b-1e5d-4595-9462-8c8bee6b8695"
+    },
+    {
+      "start_time": 2458,
+      "end_time": 2504,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our other project is called “Young Scholars for Justice.” And it started out as a summer project, working with students looking at different issues that are affecting youth. They take on issues like the criminalization of youth, racial profiling, looking at how the high schools are sending a lot of students to the Alternative Learning Centers, and how they're getting tracked into, already, the Juvenile Justice System, and how that's impacting our communities."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        }
+      ],
+      "uuid": "edb3483e-9838-467c-a199-e4dd9535bfcb"
+    },
+    {
+      "start_time": 2505,
+      "end_time": 2566,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The education system is something that they had realized is an issue of concern. They also did surveys on transportation and came up with the “Bus Riders’ Union.” It's really exciting to work with this group, because it's high school and college students. And they are being trained on how to do interviews and how to get out there and talk about their issues. And they will go before the Parks and Rec board. They did a survey looking at the recreational centers. And they found out that there was 100% male directors, and the young girls were saying, the participants that were at the rec centers were saying, there weren't enough activities for them. And so they provided recommendations that they needed to change that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        },
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        }
+      ],
+      "uuid": "f9b7e3e6-279e-4eb8-a56e-bd1b41b6b3ba"
+    },
+    {
+      "start_time": 2566,
+      "end_time": 2569,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How were they recruited? In what age group? [cross talk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "bcb6067a-9a14-4175-9765-046f3de6131d"
+    },
+    {
+      "start_time": 2570,
+      "end_time": 2598,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From high school up to college. And they are…The high school students come from the East side, and the college students have come mostly from St Edward’s [University]. But then there's some that are now from the East side that are going to St Edward’s. St Edward’s has a Migrant Program, and so some of those students have come."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "82327478-feb1-440b-aa19-cfc9e8b363e0"
+    },
+    {
+      "start_time": 2599,
+      "end_time": 2625,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We do presentations to different classes at UT or to St Edward’s. And some students will volunteer that they are interested in doing an internship or writing a paper or so forth, but they have really helped in a lot of different ways. They worked on our newsletter and so forth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "f94b9c7c-0986-4d51-9f4e-be92f19616ac"
+    },
+    {
+      "start_time": 2629,
+      "end_time": 2660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now PODER is at the point where we have [and] want that young leadership to come and transition into staff positions and so forth. So it's really exciting, because the organization is transitioning more and more of the staff to take the leadership, as young leader"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "40ca53ac-5f86-428f-8826-d8fe618e6b65"
+    },
+    {
+      "start_time": 2661,
+      "end_time": 2665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How many students do you have at this time?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b174cc9a-8f7e-443c-bc48-fb44c61f2615"
+    },
+    {
+      "start_time": 2665,
+      "end_time": 2737,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This past summer, we had 14, which is the most that we ever had. It’s really grown and grown. And then during the summer, and then this past year, we were also able to continue some of the staff or some of the youth throughout the school year. Because what was happening before is they have a project, and then the summer would end and we wouldn't have any follow up that was sometimes necessary. So now several are on staff. And then there's some that continue throughout the high school, and a couple of students. And so it's been really good. And so now we're showing them the ropes in terms of some of the grant writing. My title for the organization, or my position is “Health Coordinator,” and so I've been teaching them on the workshops that I do with the “Nahui Ollin Healthy Communities” on asthma and ozone, hazardous labeling, and so forth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        }
+      ],
+      "uuid": "0101286f-e89e-4ec4-b185-97772d679efc"
+    },
+    {
+      "start_time": 2738,
+      "end_time": 2791,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of our youth that was with us for three years graduated from St. Edward’s. And now she's on staff, and now her background is education. And so now we're formatting and really getting to the point where everything has in terms of lesson plans and that kind of format. So it's more formalized in terms of the curriculum that we're offering. And people have different backgrounds. We've had media specialists that have come and developed videos. We have a lot of videos on our different issues, but it's often a volunteer or another young scholar, [who] also was in media, and she is now a Hearst fellow, and so they've really developed and gone on. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "4b184ebf-241f-4e35-bfa8-bcedbd7ff9e9"
+    },
+    {
+      "start_time": 2792,
+      "end_time": 2826,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[First name] Alvarez was a Young Scholar. [He] worked on transportation, and now he’s on the City Council. So they’ve really grown into different areas, but because that's my background in Social Work. I have a master's in Social Work, and I have supervised students in internships. So I kind of take that role of providing that supervisory level, with the different students in the different areas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "66dee735-3bf4-4567-aee8-dd640156cd92"
+    },
+    {
+      "start_time": 2827,
+      "end_time": 2829,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where did you get your Masters degree?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a1a3828e-77a3-4579-85c0-efb6932f1f3a"
+    },
+    {
+      "start_time": 2829,
+      "end_time": 2852,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I got my masters in University of Wisconsin in Madison. And my area was Gerontology, Administration, and Planning of Programs for the Elderly. And that had always been my interest, and I did a lot of work with, well, most of the elderly were women. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "2cbd3161-c2d3-47f7-9666-9dfc5696caa8"
+    },
+    {
+      "start_time": 2853,
+      "end_time": 2872,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so I developed an “Intergenerational Housing [Program],” which was shared housing up in Wisconsin when I was there. And I also did health, and also did migrant health when I was up there. I worked with the state and did that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "83541e9e-8461-4b2c-9e65-134aee1c6f22"
+    },
+    {
+      "start_time": 2874,
+      "end_time": 2890,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So when I moved back to Austin, I was trying to develop a shared housing here for the elderly. And I had worked with an elderly project here in East Austin called \"Services for the Elderly.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "0718d05c-3e12-4fc5-a99f-88aa511dbe3a"
+    },
+    {
+      "start_time": 2891,
+      "end_time": 2938,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I graduated from UT as an undergraduate with my BA. And so that was a project that also kind of came out of East Austin, “Services for the Elderly,” who were able to keep it in the community. Because at one point, they wanted to take it away from East Austin. And we were able to keep it here in el Barrio [the neighborhood]. But that was kind of like…my interest had been health—it has always been health. So when I came back to Austin, I did work in different places. I worked with “SER: Jobs for Progress,” which was in Employment and Training."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "8832ef19-0246-4645-9710-a10a66cb2f3b"
+    },
+    {
+      "start_time": 2939,
+      "end_time": 2940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What year was that? (cross talk)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "dd8429cc-3ab8-4deb-87ab-da132a5a7f5b"
+    },
+    {
+      "start_time": 2942,
+      "end_time": 2983,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was in [19]80…’83, ‘82. And that was when there was a transition in Employment and Training from CETA, which was the “Comprehensive Employment Training Act,” and it became the “Job Training Partnership Act” at that time. So, I also worked with a lot of youth in the summer youth employment programs that they had during the ‘80s with PODER. And I then did work with the elderly. And then, 13 years later, I decided to go back to school. (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "45e9093d-6b0c-4efa-90af-46ff2ca4379d"
+    },
+    {
+      "start_time": 2983,
+      "end_time": 2984,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where did you go?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "ea223b9e-ee77-40ec-bb59-c660d893f56e"
+    },
+    {
+      "start_time": 2985,
+      "end_time": 3042,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I went here to UT Austin, and I went into Health Education. And my study, my research, was in Brownsville—Matamoros. And because my department looked at a lot of worksite health promotions, like corporate fitness, which were health fitness components, I wanted to do something with Mexicana’s women’s health. And so I ended up doing it on breast cancer. And I started looking at just the knowledge and attitude, because that's sort of the model of the framework that they use in my department."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        }
+      ],
+      "uuid": "7a75d703-1ce1-4b75-9175-0aa27e588bab"
+    },
+    {
+      "start_time": 3043,
+      "end_time": 3088,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I ended up going into the Maquiladoras [factories] at the time, and it wasn't…I couldn't go into [there] the whole time. Right around the same time is when a lot of stuff was coming out on the birth defects in the [Lower Rio Grande] Valley, the neural tube defects. So I really couldn't do my work on environment and health, but I did a real basic [study] to find out what Mexicanas knew about breast cancer screening, and if they participated or not. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "fafe9348-9ae5-49aa-8823-ff201ed6b994"
+    },
+    {
+      "start_time": 3089,
+      "end_time": 3138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the time, I also worked with the School of Nursing, and I worked with them for seven years. And out of that, I did a needs assessment and a community needs assessment for Mexicanas and African American women to see if they were participating or not in screening. And we came up with, the School of Nursing, to open up two community clinics to offer free screening to women that were medically underserved. And we provided everything for free, including the mammogram. Even if there were women that needed surgery or biopsies, whatever—we were able to get those taken care of."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        },
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        }
+      ],
+      "uuid": "389e87fa-7318-4614-86d3-785f81d18710"
+    },
+    {
+      "start_time": 3139,
+      "end_time": 3142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you were still studying at UT during all this time?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "aa6ab6e4-2b1f-419d-8848-5b1df2d7397a"
+    },
+    {
+      "start_time": 3143,
+      "end_time": 3156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was studying and raising my family by myself and volunteering with PODER, because that was at the height of the Tank Farm, and taking on the oil company. (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "de5f1a3c-be0e-4b0d-8d0c-5dd17b949b50"
+    },
+    {
+      "start_time": 3156,
+      "end_time": 3163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So what was your last degree? Or when did you finish your school at UT?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "3f89796f-81bd-452b-a530-d8b46faf64d6"
+    },
+    {
+      "start_time": 3163,
+      "end_time": 3177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I finished in [19]98, December of ‘98. Well, actually, it was August. Officially, it was August of ‘98, but then I went to the.."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "0d686a3c-bf0e-488b-9bea-ed1af4176752"
+    },
+    {
+      "start_time": 3178,
+      "end_time": 3179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For the PhD? [cross talk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "8cf8f923-4777-447c-898c-ec14a6972c36"
+    },
+    {
+      "start_time": 3182,
+      "end_time": 3195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. And UT has never been….there's never really been that many students from the East side that go to UT. And I went there as an undergraduate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "0ef0e967-6824-4f0e-8671-cade9e49a247"
+    },
+    {
+      "start_time": 3199,
+      "end_time": 3266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it's something that’s disturbing. Because there's never been and now there's a little more involvement, but there's never been a real strong effort to recruit students and make sure that they go through [Kindergarten] through undergraduate [school] or nurturing our students. So education is still a big concern in terms of how do we make the schools able to keep students rather than push them out? How do we develop the curriculum? How do we develop ways to keep people in school? And that's a big challenge, because there's so many incidents that we experience at the schools that make you want to just give up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        }
+      ],
+      "uuid": "4b75bf3c-2c1d-46cc-b563-1e0d1d1c8b9b"
+    },
+    {
+      "start_time": 3267,
+      "end_time": 3318,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And even though that happened to me in the [19]60s and the ‘70s, it still continues today. My daughter, because I lived in the area, and still continue to live in the area, went to Johnston. She graduated from Johnston. So as a parent, I still saw a lot of things that were neglect from AISD [Austin Independent School District]. In Johnston, the tennis court was in horrible condition, and so I had to take pictures. I had to really go out there and just really…This is a health hazard, so there's been a lot of issues that still continue. (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        },
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        }
+      ],
+      "uuid": "d0ea3f08-ec19-4e2b-a8a1-c42f5047361f"
+    },
+    {
+      "start_time": 3319,
+      "end_time": 3362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But one thing about Johnston is that a lot of us that went there are that our children are going and our grandchildren are going there. That's the one thing about the neighborhood that I see. It's been a very stable community. And a lot of the familias that have been here, not for generations, are still in the area, and we're very proud to be [from] the East side. And even though there's a lot of problems here in terms of what now we have found out to be hazardous facilities, it's a very beautiful area."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Natural Beauty"
+        },
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        }
+      ],
+      "uuid": "edc73e59-ae0e-4f99-b14d-3f3a37c93463"
+    },
+    {
+      "start_time": 3363,
+      "end_time": 3434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the pecan trees and just a lot of beauty here and the people…I always tell people that if I had not continued to do the work in the community, I would have never finished, because that's what kept me sound and grounded. And that's one thing that I tell the students, that they might come from different parts of their houses, from other communities. But always get involved, even if it's at the minimum, but establish a relationship with a community that needs their knowledge and skills. And help out, because otherwise you get swallowed up in that system, and you're out there, and you feel all alone, and you feel like you're not going to make it, and all these things that happen along the way. And if you don't have that connection to people that care that you finish and care that you can do it, to give you all that [support], then you're not going to make it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Natural Beauty"
+        },
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Environmental Indicator"
+        }
+      ],
+      "uuid": "453816f4-a4e2-4690-b978-9379e21557a7"
+    },
+    {
+      "start_time": 3440,
+      "end_time": 3468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "PODER is divided into two campaigns, and one is the land use. And we've really had to look at the zoning of the different properties in East Austin. And we came to find out that in 1928, the City of Austin had declared this [neighborhood] as the “industrial area.” So that was why there were so many hazardous facilities. But today, we kind of bring it to the present."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        }
+      ],
+      "uuid": "e84ee3a3-7e0a-447d-ae83-3a1582f64428"
+    },
+    {
+      "start_time": 3468,
+      "end_time": 3537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's the “Smart Growth Initiative” which is really impacting East Austin. And that “Smart Growth Initiative” is saying that East Austin—and now it's called Central Austin—is the desired development zone. So it's encouraging people to move to East Austin. So now, the generations of families that have been here are now being displaced. And so that's a real big concern right now that we have, because the property taxes are rising, that people can't afford to live in East Austin anymore. They're having to move to the outskirts of Austin, to the smaller communities outside of Austin. And then people that were living in the suburbs are now moving into the downtown area, into East Austin. And so there's a big change that's happening in our community, and we're having to focus to see what are ways that we can curb this gentrification. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "b7492949-ed77-4ed5-ac1e-2d5517f94aac"
+    },
+    {
+      "start_time": 3537,
+      "end_time": 3561,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the city is responsible for it. In this whole initiative, they are also building homes in the area, and what is happening is that they're going by the median income of the city, and there's such a gap between rich and poor. [coughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        }
+      ],
+      "uuid": "083fef5f-cbfc-43ec-b9a3-50735eb9d30d"
+    },
+    {
+      "start_time": 3561,
+      "end_time": 3594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here in Austin, the median income is like $71,000 for the area, for all of Austin. And that's the immediate income that they look at, right? But if you do it by individual census tracts or even zip codes, it's the opposite. It's like $17,000 to maybe $25,000. We're having to look at that whole area of what is happening to East Austin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        }
+      ],
+      "uuid": "81fc2ce3-6134-485f-a580-05b1be25ad2a"
+    },
+    {
+      "start_time": 3595,
+      "end_time": 3638,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So we’ve been very concerned and involved in that issue in how we protest our taxes. Because that's there for people to do. And we're not aware of that. A lot of people aren't aware that just because our property taxes are based on the sales that are going on. That if somebody buys a home, it's going to affect your house, your taxes. And so we're teaching people how to protest their taxes, and looking at other ways for people to be able to keep living in East Austin that have been here for generations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        }
+      ],
+      "uuid": "74916920-0790-4953-8549-ac25c00edbcc"
+    },
+    {
+      "start_time": 3650,
+      "end_time": 3655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We were talking about the different issues that PODER has been working on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "6f4cc9a7-07fe-4b29-bf0e-6fdc3230be9d"
+    },
+    {
+      "start_time": 3655,
+      "end_time": 3676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And one of the ways that we get that information out is through the radio program that we have. It's on community radio, KO-OP, \"K\"-\"O\"-\"O\"-\"P.\" And that program we've been doing for 10 years now. And it's a half hour weekly show."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "2688d8b0-29ee-45cc-bd80-e00e079e138b"
+    },
+    {
+      "start_time": 3676,
+      "end_time": 3677,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When does it come on?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "ea1a178a-f1fe-4e05-a4b2-72061fcfdb05"
+    },
+    {
+      "start_time": 3678,
+      "end_time": 3693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On Tuesday afternoons at 4:30 [P.M.], and that we cover from very local issues that we're working on, to international connections and the globalization."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        }
+      ],
+      "uuid": "1f3e8975-b9c6-42d1-b248-a45b34e9822d"
+    },
+    {
+      "start_time": 3694,
+      "end_time": 3695,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What radio frequency is it on?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "eb896e12-ab6d-43b0-a111-a882d5209a0f"
+    },
+    {
+      "start_time": 3696,
+      "end_time": 3736,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "91.7 [FM]. And we sometimes travel to different conferences or we interview different people that are working on environmental issues, social justice issues. Or we have someone come into the studio that we can also interview there. We've also gotten our Young Scholars [involved]. They're the ones that are running the board and running the technical end of it. So that's another way that they've integrated into the organization."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        }
+      ],
+      "uuid": "34bf61ab-52d3-425c-8b07-7de1c61c6443"
+    },
+    {
+      "start_time": 3737,
+      "end_time": 3753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But we know that people listen to it, from all—people that are working at the city departments and so forth. Because when we provide that information, they somehow know for the time. (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a5ae5a89-564a-449e-a547-f0565d615ece"
+    },
+    {
+      "start_time": 3754,
+      "end_time": 3781,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So the work gets out about the issues that we're working on through that program. And also, we have, because of the…We took on the oil companies and we took on multinational high tech companies. And also the BFI [Browning-Ferris Industries] is a multinational [company]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "c469b8a7-c2fa-423f-b20a-d5db1cce4bc0"
+    },
+    {
+      "start_time": 3782,
+      "end_time": 3827,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We do connections to different communities that are having similar struggles that we have here in Austin. And so even though we're a local organization, we have international connections to other communities, and the national as well as regional and state level, where we're working in support of other communities that are trying to take on these similar companies—or the same, actually, same companies—in their community. And so we share information with our communities of how we were able to tackle our issues. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        }
+      ],
+      "uuid": "ca731a76-26b8-4ff4-a383-2d80b029f297"
+    },
+    {
+      "start_time": 3828,
+      "end_time": 3879,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And again, talking about that Tank Farm Citizens Monitoring Committee, and how we were able to make a change. And when we did the Tank Farm, we were actually able to get the City Council to hold an official city council meeting at the Conley-Guerrero Center. And that was the first time that the City Council had ever met outside of City Hall of City Council chambers, and they had an official meeting there. But we requested, and they still do that now, where they have—on a quarterly basis—they will have a meeting out in the community, like South Austin or North Austin, East Austin, but that was something that was started back during the Tank Farm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "d34027c4-2d69-4e8f-97f5-b4532f565311"
+    },
+    {
+      "start_time": 3880,
+      "end_time": 3926,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so I think the Tank Farm really had an effect on how business was conducted, in terms of even notification to communities in the primary language of the community. Because a lot of the community were Spanish speaking, and so we didn't know what was going on. We didn't know how to respond. And so a lot of what we've done is how to complain even, because people were not documenting it when it happened or who they talked to when they were complaining about certain things. So we've had to do a lot of different workshops. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        }
+      ],
+      "uuid": "88f5e56c-7a2f-453e-8f81-0faab431d7e0"
+    },
+    {
+      "start_time": 3926,
+      "end_time": 3932,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What about the issues with the high tech company in Austin?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "06a76d23-a0f9-4589-99b6-4035a5dbbe05"
+    },
+    {
+      "start_time": 3933,
+      "end_time": 3976,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When we were working on that campaign, we actually filed a Title VI complaint, which is a Civil Rights complaint with the Environmental Protection Agency. Because one of the high tech companies wanted to move in, and they were right there going to be in the area, and we contested that permit and actually have filed one also on the Holly Power Plant. But those complaints were never going anywhere. They basically sat pending before the EPA for a long time. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "3e0fb007-c7e1-45eb-ad9d-51b35caa2506"
+    },
+    {
+      "start_time": 3977,
+      "end_time": 4027,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But we also, as part of that collaboration, we were part of a book that was written by a collaborative effort of four organizations throughout the Southwest. And it was called “Sacred Waters,” and that was looking at different four sites. Case studies that were done out in San Jose, in the Silicon Valley. And then in Phoenix, Motorola contaminated the groundwater in Phoenix. Intel in Albuquerque, Nuevo México. And then here looking at Silicon Hills, which is what Austin is referred to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "560e9968-3da7-4165-9d27-06f7a711ae0b"
+    },
+    {
+      "start_time": 4028,
+      "end_time": 4062,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so we really pointed out a lot of that stuff that was going on with the high tech when Samsung moved in not that long ago either. Maybe what? About five years ago. They—the city of Austin—used the Capital Improvement Project, bond money, taxpayer money, to build a water main for them, and that main ran from here on Pleasant Valley, from Town Lake, all the way up to Cesar Chavez and up Springdale, all the way up north."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        }
+      ],
+      "uuid": "69832069-26e1-47eb-98b6-39b9d6effaae"
+    },
+    {
+      "start_time": 4063,
+      "end_time": 4096,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the reason I found out about it was because it was coming down Springdale, and I was one of the property owners where they were going to be doing this water main. And, so I got notified, and I made a call, and it turned out that the staff told me over the phone that it was for Samsung. And then when we went—started—going to the community meeting, they said, “Oh no, it's not for Samsung. It's that we've had growth in the area of North Austin, and we need to do this.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "8568cc87-28ed-4a6e-93aa-ab83f3d1b9bd"
+    },
+    {
+      "start_time": 4097,
+      "end_time": 4141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But during that time period as well, around ‘95, the city was requested by all these high tech companies and big companies, corporations, that they were the largest consumer of utilities and commercial users’ rights are that their rates should be lowered. And so the city agreed that, yes, they were using all this water for their production, all this electricity, that they were going to lower their rates. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        },
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        }
+      ],
+      "uuid": "26b5dc49-14fc-465f-ab91-d2c9bab815cc"
+    },
+    {
+      "start_time": 4142,
+      "end_time": 4172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so what happened? They lowered their rates—the commercial rates—and they increased our residential rates. But that's how we've been affected by the high tech industry moving into Austin. And also it created this hole—the gap that I mentioned earlier—in terms of people that were coming in working for the high tech companies and the salaries that they were making."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        }
+      ],
+      "uuid": "5579ee40-c52e-4dcf-96b2-620f9992ff35"
+    },
+    {
+      "start_time": 4173,
+      "end_time": 4198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And basically what happened in Montopolis is that when we started we found out that people that were part of the consortium, which is called Symtec. And the companies that were already there, like AMD [Advanced Micro Devices] and some of the other companies, they were not even adopting Allison Elementary School, and they were adopting schools on the west side and providing all this money for their projects."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Community",
+          "tag": "Privilege"
+        }
+      ],
+      "uuid": "ac1b90c8-bf56-47b8-89a9-18a9fe53c22e"
+    },
+    {
+      "start_time": 4199,
+      "end_time": 4271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so we held them accountable to adopt Allison [Elementary] and to provide their social responsibility—money—to go into the community. Because they did offer money to PODER, but PODER does not accept any corporate funding or any kind of governmental funding. Because when we're raising these issues, we don't want to be put in a position where, you know, hush money or say, “Hey, you can no longer continue to attack this,” or at least, you know, confront the issues. And so when they offered us money, we said, “No, put it into the community.” So they put money into the park, in the neighborhood park, next to the Montopolis Rec Center. And they also gave some money to the Montessori School, for [inaudible (the name of the school in Spanish)] Montessori to develop, to build a new facility, and really make a vast improvement with that daycare center there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "745eb548-d596-4ad6-9356-f3d228d38e40"
+    },
+    {
+      "start_time": 4272,
+      "end_time": 4298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But the hightech company campaign was something that we really looked at in terms of Montopolis specifically, and really also the contamination. We knew that other areas have been contaminated, and we didn't [involve ourselves], since they were not hiring people from the community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        },
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "a8ff5996-4da8-4446-b994-99822b5f536e"
+    },
+    {
+      "start_time": 4298,
+      "end_time": 4318,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But we also were able to work with them, to sit down with them. And that's something that a lot of times people think, “Oh, PODER's just out there, you know, at city council, and raising the issues, and raising the issues.” But behind the scenes, we will be sitting down with the city departments and representatives of the different departments."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "26a36f68-a13c-4b28-b5fd-7b9e862bdf6b"
+    },
+    {
+      "start_time": 4319,
+      "end_time": 4355,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And as well as like with BFI, we were all sitting down together for a couple of years before it came down that the city went ahead and bought them out and purchased the land of BFI and did not renew their contract for recycling. But it, you know, we were sitting there together at the table, working things out as to what was going to happen. BFI did have people from the community that were workers, and so we didn't want them to lose their job wherever they relocated."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "c90ef82c-f62b-4962-8558-6f09e9351010"
+    },
+    {
+      "start_time": 4356,
+      "end_time": 4390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So there was a whole list of things that we had an agreement and that we had to come up with to say, “Okay, you know, you will continue. The workers will continue.” They agreed to provide transportation to the workers, because since BFI was right there in the community, they could catch the bus or walk to work. And so they agreed to provide transportation to their new location. They did a lot of things that in the meantime, while they shut down, that would be helpful to the community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "e8c3fcba-aaa1-406d-a47f-425ff38dedc6"
+    },
+    {
+      "start_time": 4392,
+      "end_time": 4434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, when we work with people, it's sort of not, you know, we're raising the issue, but we also have documented, you know, recommendations specific to our concerns, specific to Holly [Power Plant]. The same thing, we've come up with recommendations, you know, alternative energy, and now the city is really promoting solar energy. Well, you know, this is something that's good for Austin, and it should concern people to shut Holly down, but you know, it's a lot of background work that we have to do in terms of other research. And we get the students involved to do the research and background."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "9379388b-1cbd-4860-a1fd-cea22f375ae5"
+    },
+    {
+      "start_time": 4434,
+      "end_time": 4453,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the important thing that we try to teach them is that when you're doing research, that you don't just collect the information and you do your paper, your report, but that you report those findings, that information back to the community and say, “Okay, what do you want to do with this information?”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        }
+      ],
+      "uuid": "8a040dbd-df4e-4be3-a893-cf4b1040d2da"
+    },
+    {
+      "start_time": 4454,
+      "end_time": 4519,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another example of that is the intersection of Bolm Road, Shady Lane, Airport, and Jain Lane is a major intersection. That was all…the streets all converged on Airport. There were three lights facing the same direction, so you didn't know where to stop, and there was a lot of accidents there. We did a transportation study. And we came up with a design through the Urban and Regional Planning Department—students that came up with a design—and it was accepted by the city, and it was just completed. Now it was, now it's a line, so you can cross over. Before, it was not matching. You kind of have to kind of swerve it into Airport and then turn into the other street. And now you can cross over the pedestrian—there's a pedestrian crossing—because there's a lot of traffic there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "8a5f7e6b-1763-4dce-9627-ddcf1522f970"
+    },
+    {
+      "start_time": 4520,
+      "end_time": 4556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So these are just examples of how we've taken the research and we do the study and we take it back to the community. And we work out a solution to the problem and then present it and work with the city or whoever to make that improvement. And so [the City of Austin] just completed [the pedestrian crossing] this year. But that, you know, that was like a long term project. And so it took about four or five years to get all that taken care of, but it got done."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "58f11bde-7889-4302-9bff-9b9d7e2c4fc6"
+    },
+    {
+      "start_time": 4557,
+      "end_time": 4614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And we involved the students from Johnston Terrace because they drive through that intersection, and we knew it was all deadly—you know—intersection's dangerous. And so at first the students in the high school say, “Well, why do we have to go, you know what? You know, why do we have to fill out this survey?” But then when they see the results, then it's sort of like people say, “Oh, yeah, I can make a difference. Or I do count.” You know. And that's what's important: is that people become involved. And when it concerns their health and safety, then we have…When we provide the information, people will take action, because so long people thought, “Oh, you know, they don't care.” But it was that we cared, but we didn't know how to do a lot of the things that now we know how to. (laughter) \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        }
+      ],
+      "uuid": "51037d9c-8d02-4579-980d-8fb74b63cbc0"
+    },
+    {
+      "start_time": 4618,
+      "end_time": 4620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That is great though."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a3e29c3c-3fbf-458e-a29d-f919bd86e086"
+    },
+    {
+      "start_time": 4621,
+      "end_time": 4651,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, there's just a lot of things that PODER has accomplished. And, you know, I think that the way we've accomplished it too has been through the board. You know, the board is very active. They all represent different neighborhood associations. And so that, you know, they're not rubber stamping what the staff does, but bringing those issues to our attention or going out to community meetings on a weekly basis."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "ae292865-154c-449d-876b-24e6b86269c8"
+    },
+    {
+      "start_time": 4651,
+      "end_time": 4652,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How many board members?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "28730cf6-5c14-4f19-a7b2-50c2066b7232"
+    },
+    {
+      "start_time": 4653,
+      "end_time": 4709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have seven members and they represent different neighborhoods, primarily around the Tank Farm. And they all have different, you know, like [inaudible (board member's name)], there was 18 wheelers and warehouse, and she lives real close to Brook Elementary. Then we have Daniel [inaudible (board member's last name)] on Cesar Chavez and that area off of Springdale. And the other thing is that our staff also lives in East Austin. Susana [Almanza (Director of Poder)] lives in Montopolis. I still live in the Govalle area. And so, no, we're not just concerned because of…and we don't see PODER as a job, but as a way of life, because it affects us on a daily basis, and affects our board members on a daily basis. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        }
+      ],
+      "uuid": "8ce48715-3b76-4c6f-ac8c-c5e0fee805e9"
+    },
+    {
+      "start_time": 4710,
+      "end_time": 4742,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, we've created this extended family of people that are concerned in the neighborhoods, and it's something that people know that we care, and we're willing to share what we do know with whoever is wanting to make a change. And so, people get involved. Or, you know, they'll say, “Oh, you know, so and so is happening,” and they bring it to our attention."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        }
+      ],
+      "uuid": "682b9403-d1a9-4344-9c26-eb7785f29f15"
+    },
+    {
+      "start_time": 4744,
+      "end_time": 4768,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We've been asked, “Well, how do you get involved with these issues?” It's like, well, somebody will call, or one of our residents, or one of our neighborhood representatives or board members will call and say, “So and so called me. They're concerned that this is what's happening on this property. Can you check and see what's going on?” So that's what we do—we do the background check."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b57af84f-04a6-4c5a-b101-ed519e1fff55"
+    },
+    {
+      "start_time": 4772,
+      "end_time": 4776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, thank you very much Sylvia, for the interview."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b4ad1174-1b76-40fd-8a02-f9f91d7c76f8"
+    }
+  ],
   "set": "Default",
   "event_id": "17aba91f-5c5a-4eb2-8d31-a447106b2ecd",
   "source_id": "85302a9c-48f6-419a-b270-3fed08147afd"
