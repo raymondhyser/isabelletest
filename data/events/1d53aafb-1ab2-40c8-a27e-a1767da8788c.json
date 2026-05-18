@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "2a5d50a3-93e8-487c-8aa8-ec5c79597bcd": {
+      "label": "Interview with Rowena Stenis Smith",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://ia601605.us.archive.org/23/items/stenis-smith-oral-history/Stenis%20Smith%20Audio%20Combined.mp3",
+      "duration": 3749,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The second interview with Janet Fish conducted in 2002. "
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Land Changes: Resident Impacts",
+  "av_file_order": [
+    "2a5d50a3-93e8-487c-8aa8-ec5c79597bcd"
+  ],
+  "created_at": "2026-05-18T17:28:13.026Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-05-18T17:28:13.026Z",
+  "updated_by": "raymondhyser"
+}
