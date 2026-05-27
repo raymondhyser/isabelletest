@@ -4,11 +4,39 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Shifting Landscapes: Historic Tales of Environmental Disruption in Austin, TX",
+          "text": "",
           "bold": true
         }
       ],
       "align": "center"
+    },
+    {
+      "type": "image",
+      "url": "https://us.preservica.com/Render/render/external?entityRef=1f5796d6-fed0-4e52-8e9c-c479ccbeee81&token=ea482907-b6ca-46e6-8aef-8891ce95cd99&scope=ua",
+      "caption": "Bull Creek AHC",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "bold": true,
+          "text": "Shifting Landscapes: Historic Tales of Environmental Disruption in Austin, TX"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -235,7 +263,7 @@
           "text": "Content Warning:"
         },
         {
-          "text": " Some interviews contain disturbing or offensive terms and phrasing in reference to Black and Indigenous residents. We acknowledge the historic, systemic inequities represented by this material. Because we wish to be honest about when and who history harms, we have not edited the audio file, but we have altered the written transcriptions and use asterisks to signal offensive language.\n\n\n\n\n\n\n\n\n\n"
+          "text": " Some interviews contain disturbing or offensive terms and phrasing in reference to Black and Indigenous residents. We acknowledge the historic, systemic inequities represented by this material. Because we wish to be honest about when and who history harms, we have not edited the audio file, but we have altered the written transcriptions and use asterisks to signal offensive language.\n\n\n\n\n"
         }
       ]
     }
@@ -248,6 +276,6 @@
   "slug": "homepage",
   "created_at": "2026-05-27T14:47:17.485Z",
   "created_by": "itatearevalo",
-  "updated_at": "2026-05-27T15:14:06.870Z",
+  "updated_at": "2026-05-27T16:34:02.183Z",
   "updated_by": "itatearevalo"
 }
